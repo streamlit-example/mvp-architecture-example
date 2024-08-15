@@ -1,6 +1,6 @@
 from model.calculator import Calculator
 from model.datamodel import History
-from model.utils import get_current_time
+from utils.utils import get_current_time
 from view.view import View
 
 
